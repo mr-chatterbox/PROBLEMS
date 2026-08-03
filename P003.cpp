@@ -47,7 +47,7 @@ if (b>a){
     cout << "B is greater" << endl;
 }
 */
-/*
+
 int a;
 cout << "Enter the value of a " << endl;
 cin >> a;
@@ -62,10 +62,6 @@ else{
     cout << "A is zero" << endl;
    
 }
-*/
-
-
-
 
 }
 
