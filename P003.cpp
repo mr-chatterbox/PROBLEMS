@@ -47,6 +47,27 @@ if (b>a){
     cout << "B is greater" << endl;
 }
 */
+/*
+int a;
+cout << "Enter the value of a " << endl;
+cin >> a;
+
+if (a>0){
+    cout << "A is positive" << endl;
+}
+else if (a<0){
+    cout << "A is negative" << endl;
+}
+else{
+    cout << "A is zero" << endl;
+   
+}
+*/
+
+
 
 
 }
+
+
+
