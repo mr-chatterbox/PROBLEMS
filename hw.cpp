@@ -45,7 +45,33 @@ else{
 cout<<a;
 */
 // 4th Q.
+/*
+char ch;
+cout << "Enter the character: " << endl;
+cin >> ch;
 
+if (ch>='a' && ch<='z'){
+    cout << "This is Lowercase" << endl;
+}
+else if (ch>='A' && ch<='Z'){
+    cout << "This is Uppercase" << endl;
+}
+else if (ch>='0' && ch<='9'){
+    cout << "This is Numeric" << endl;
+}
+*/
+// 5th Q.
+int n;
+cin >> n;
 
+int i = 2;
+int sum = 0;
+
+while(i<=n){
+    sum = sum + i;
+    i = i + 2;
+}
+
+cout << "Sum of all even number is " << sum << endl;
 
 }
