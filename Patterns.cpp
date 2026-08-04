@@ -20,7 +20,8 @@ int main(){
         i = i + 1;
         }
 */
-
+//Pattern 2
+/*
       int n;
     cin >> n;
 
@@ -36,4 +37,7 @@ int main(){
         cout << endl;
         i = i + 1;
     }
+*/
+
+
     }
