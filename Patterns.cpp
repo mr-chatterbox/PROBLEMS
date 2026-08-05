@@ -78,10 +78,45 @@ while(i<=n){
 }
 */
 //Pattern 5
+/*
+int n;
+cin >> n;
+
+int row = 1;
+
+while(row<=n){
+
+    int col = 1;
+    while (col<=row){
+        cout << "*";
+        col = col + 1;
+    }
+    cout << endl;
+    row = row + 1;
+    }
+*/
+//Pattern 6
+/*
+int n;
+cin >> n;
+
+int row = 1;
+while(row<=n){
+
+    int col = 1;
+    while (col<=row){
+        cout << row;
+        col = col + 1;
+    }
+    cout << endl;
+    row = row + 1;
+    }
+*/
+
+//Pattern 7
 
 
 }
-
 
 
 
