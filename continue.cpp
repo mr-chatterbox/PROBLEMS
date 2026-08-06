@@ -8,6 +8,6 @@ int main(){
         cout << "Hi" << endl;
         cout << "Hey" << endl;
         continue;
-         cout << "Reply" << endl;
+         cout << "Reply";
     }
 }
