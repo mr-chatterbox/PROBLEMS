@@ -56,5 +56,8 @@ int main(){
     cout << "First occurence of 3 is at index " << firstOcc(odd, 11, 3) << endl;
     cout << "Last occurence of 3 is at index " << lastOcc(odd, 11, 3) << endl;
     
+    int TotalnumofOcc = ( lastOcc(odd, 11, 3) - firstOcc(odd, 11, 3) ) + 1;
+    cout << "Total number of occurence of 3 is " << TotalnumofOcc << endl;
+
     return 0;
 }
