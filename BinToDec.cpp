@@ -19,6 +19,6 @@ int main(){
         i++;
 
     }
-    cout << ans << endl;
+    cout << ans;
 
 }
