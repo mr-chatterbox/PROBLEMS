@@ -12,5 +12,10 @@ int main() {
     char *c = &ch[0];
     cout << c << endl;
 
+    char temp = 'z';
+    char *p = &temp;
+
+    cout << p << endl;
+
     return 0;
 }
