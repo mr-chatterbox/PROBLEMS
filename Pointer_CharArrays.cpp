@@ -15,7 +15,7 @@ int main() {
     char temp = 'z';
     char *p = &temp;
 
-    cout << p << endl;
+    cout << p;
 
     return 0;
 }
